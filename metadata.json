@@ -1,0 +1,6 @@
+{
+  "name": "AI Coding & Vibe Coding Matrix",
+  "description": "Infografía interactiva y manual técnico exhaustivo comparando plataformas de AI Coding (Claude, DeepSeek, OpenCode, Cursor, Grok, Gemini), arquitectura de modelos, arneses de test, asistentes, agentes y plantillas de prompts de producción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
